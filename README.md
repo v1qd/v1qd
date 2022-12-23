@@ -1,3 +1,3 @@
 ### Legionalitty
 
-[Profile Views](https://komarev.com/ghpvc/?legionalitty)
+![Profile Views](https://komarev.com/ghpvc/?legionalitty)
